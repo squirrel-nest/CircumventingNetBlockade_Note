@@ -9,4 +9,4 @@
    2. Circumvention: [https://dictionary.cambridge.org/us/dictionary/english/circumvention](https://dictionary.cambridge.org/us/dictionary/english/circumvention) --><br>           
       * Circumventing |==========|-->|Blockade: [https://dictionary.cambridge.org/us/dictionary/english/blockade](https://dictionary.cambridge.org/us/dictionary/english/blockade) --><br>  
       *                   |--> Network           |
-      * Bypassing     |==========|-->|Censorship [https://dictionary.cambridge.org/us/dictionary/english/censorship](https://dictionary.cambridge.org/us/dictionary/english/censorship) --><br>  
+      * Bypassing ----|==========|-->|Censorship [https://dictionary.cambridge.org/us/dictionary/english/censorship](https://dictionary.cambridge.org/us/dictionary/english/censorship) --><br>  
