@@ -41,8 +41,9 @@
                2. 点rule之后会有一个“节点选择”，在 ”节点选择“ 里勾选一个有效节点即可使用。如下图
                   - ![节点选择](https://help.loliloli.live/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-MJ1y1XnJx_66NtD2R1x%2F-M_xzi0-ufKKEgIGHNZ1%2F-M_y-2BW3syOOaI9xnnM%2Ft03.webp?alt=media&token=2c2bf44f-98da-4c03-93ea-48ac0b1a832d)<br>
          4. 选择完成后，点击窗口左侧的 General (通用)。 开启 System Proxy (系统代理)，即可科学上网。 
-         5. -- Clash 支持通过策略组，对不同的网站使用不同的策略。合理使用分流可以提升使用体验。  
-         6. 其他配置 - 部分Mac系统需要自动配置代理方式,具体操作如下.
+            + ![System Proxy (系统代理) - 界面](https://gblobscdn.gitbook.com/assets%2F-MJ2Won_67fkuqWwhDZT%2F-MJ2WrvaSeEcP1xOYUAR%2F-MJ2XoZvzl87V5dNm8Ga%2Fimage.png?alt=media&token=0d45c096-0672-4131-ae8e-155e696d81f7)<br>
+         6. -- Clash 支持通过策略组，对不同的网站使用不同的策略。合理使用分流可以提升使用体验。  
+         7. 其他配置 - 部分Mac系统需要自动配置代理方式,具体操作如下.
             + 选取苹果菜单 >“系统偏好设置”，然后点按“网络”。
             + 在列表中，选择您所使用的网络服务，例如“以太网”或 Wi-Fi。
             + 点按“高级”，然后点按“代理”。
