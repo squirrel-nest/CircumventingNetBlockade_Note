@@ -5,7 +5,7 @@
    * How to: Use Tor on macOS --> [https://ssd.eff.org/en/node/80/](https://ssd.eff.org/en/node/80/)  -- Circumventing Network Surveillance
    * How to: Use Tor for Windows --> [https://ssd.eff.org/en/node/57/](https://ssd.eff.org/en/node/57/)  -- Circumventing Network Surveillance
 # 名词解释
-   1. Network Censorship <---> Network Blockade =-------> Network Surveillance : 是监控，如通过Cookie
+   1. Network Censorship <---> Network Blockade =-------> Network Surveillance : 如通过Cookie？ =-----> Network Tracing
    2. Circumvention: [https://dictionary.cambridge.org/us/dictionary/english/circumvention](https://dictionary.cambridge.org/us/dictionary/english/circumvention) --><br>           * Circumventing |-->|Blockade: [https://dictionary.cambridge.org/us/dictionary/english/blockade](https://dictionary.cambridge.org/us/dictionary/english/blockade) --><br>  
       *               |--> Network  -|
       * Bypassing     |-->|Censorship [https://dictionary.cambridge.org/us/dictionary/english/censorship](https://dictionary.cambridge.org/us/dictionary/english/censorship) --><br>  
