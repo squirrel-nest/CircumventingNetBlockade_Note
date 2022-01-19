@@ -12,8 +12,8 @@
       * Bypassing ----|==========|-->|Censorship [https://dictionary.cambridge.org/us/dictionary/english/censorship](https://dictionary.cambridge.org/us/dictionary/english/censorship) --><br>  
 
 
-## Clash for Mac
-### Clash for Windows for Mac - Clash for Windows for Mac 是 Clash for Windows 作者的另一款作品。
+## Clash for MacOS
+### Clash for Windows for MacOS - Clash for Windows for Mac 是 Clash for Windows 作者的另一款作品。
    * 参考
       + Clash for Mac教程 --> [https://help.loliloli.live/jiao-cheng/untitled-1/clash-for-mac](https://help.loliloli.live/jiao-cheng/untitled-1/clash-for-mac)<br>
    * 下载安装
@@ -52,9 +52,13 @@
 若要自动发现代理服务器，请选择“自动发现代理”。
                   * ![代理服务器设置](https://help.loliloli.live/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-MJ1y1XnJx_66NtD2R1x%2F-MUiKsjgBKoVh2wVIHbo%2F-MUiLAyv6Ofn_Il-nwJF%2Fimage.png?alt=media&token=b6a1ca73-9085-4013-b6f1-ff2aa5a34640)<br>
 
-
-# 参考文档
-   * [ClashX教程 | macOS上好看又好用的科学上网工具] --> [https://merlinblog.xyz/wiki/ClashX.html](https://merlinblog.xyz/wiki/ClashX.html)<br>
+### ClashX for MacOS
+   * 参考
+      + [ClashX教程 | macOS上好看又好用的科学上网工具] --> [https://merlinblog.xyz/wiki/ClashX.html](https://merlinblog.xyz/wiki/ClashX.html)<br>
+      + [苹果电脑翻墙软件：ClashX MAC使用教程，一款在MAC电脑上非常好用的翻墙软件，支持SSR/V2ray/Trojan节点，mac os 翻墙vpn下载（cc字幕）]--><br>[https://www.youtube.com/watch?v=ipwsiG03W6g](https://www.youtube.com/watch?v=ipwsiG03W6g)<br>
    * 步骤
       1. 下载
         - Github地址 --> [https://github.com/yichengchen/clashX/releases](https://github.com/yichengchen/clashX/releases)<br>
+
+
+## v2ray
