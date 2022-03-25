@@ -61,6 +61,7 @@
       + 
       + [ClashX教程 | macOS上好看又好用的科学上网工具] --> [https://merlinblog.xyz/wiki/ClashX.html](https://merlinblog.xyz/wiki/ClashX.html)<br>
       + [苹果电脑翻墙软件：ClashX MAC使用教程，一款在MAC电脑上非常好用的翻墙软件，支持SSR/V2ray/Trojan节点，mac os 翻墙vpn下载（cc字幕）]--><br>[https://www.youtube.com/watch?v=ipwsiG03W6g](https://www.youtube.com/watch?v=ipwsiG03W6g)<br>
+      + Add support for AppleScript #827 --> [https://github.com/yichengchen/clashX/pull/827](https://github.com/yichengchen/clashX/pull/827)<br>
    * 步骤
       1. 下载
         - ClashX 下载地址 --> [https://github.com/yichengchen/clashX/releases](https://github.com/yichengchen/clashX/releases)<br>
