@@ -63,8 +63,8 @@
       + [苹果电脑翻墙软件：ClashX MAC使用教程，一款在MAC电脑上非常好用的翻墙软件，支持SSR/V2ray/Trojan节点，mac os 翻墙vpn下载（cc字幕）]--><br>[https://www.youtube.com/watch?v=ipwsiG03W6g](https://www.youtube.com/watch?v=ipwsiG03W6g)<br>
    * 步骤
       1. 下载
-        - Github地址 --> [https://github.com/yichengchen/clashX/releases](https://github.com/yichengchen/clashX/releases)<br>
-
+        - ClashX 下载地址 --> [https://github.com/yichengchen/clashX/releases](https://github.com/yichengchen/clashX/releases)<br>
+        - ClashX Pro 下载地址： Appcenter --> [https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)<br> 
            * <details>
                 <summary>1.91.1 Release 说明</summary>
                 <br>
@@ -79,7 +79,7 @@
                       tell application "ClashX" to proxyMode "global"
                       tell application "ClashX" to proxyMode "rule"
                     + ClashX Pro 集成premium core，提供增强模式(tun)，rule set等特性支持，<br>
-                    + 下载地址： Appcenter --> [https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)<br>
+                    
              </details>
 
 
