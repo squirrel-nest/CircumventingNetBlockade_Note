@@ -87,3 +87,4 @@
 ## v2ray
    * 参考
       + [标签： v2ray节点] --> [https://fanqiang.network/tag/v2ray%E8%8A%82%E7%82%B9/](https://fanqiang.network/tag/v2ray%E8%8A%82%E7%82%B9/)<br>
+## ShadowsocksR -- ShadowsocksX-NG --> ShadowsocksR LearningNote --> [https://github.com/huarui0/ProxyKnackNote/blob/master/ShadowsocksR_Note.md](https://github.com/huarui0/ProxyKnackNote/blob/master/ShadowsocksR_Note.md)<br>
