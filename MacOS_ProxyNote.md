@@ -17,6 +17,8 @@
 ## Clash for MacOS
 ### Clash for Windows for MacOS - Clash for Windows for Mac 是 Clash for Windows 作者的另一款作品。
    * 参考
+      + 文档位置 --> [https://github.com/Fndroid/clash-win-docs-new](https://github.com/Fndroid/clash-win-docs-new)<br>
+      + Install and configure clash in Linux to realize proxy Internet access --> [https://cdmana.com/2021/05/20210503053352540i.html](https://cdmana.com/2021/05/20210503053352540i.html)<br>
       + Clash for Mac教程 --> [https://help.loliloli.live/jiao-cheng/untitled-1/clash-for-mac](https://help.loliloli.live/jiao-cheng/untitled-1/clash-for-mac)<br>
    * 下载安装
       - ① Github项目地址： --> [https://github.com/Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases)<br>
@@ -54,13 +56,30 @@
 若要自动发现代理服务器，请选择“自动发现代理”。
                   * ![代理服务器设置](https://help.loliloli.live/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-MJ1y1XnJx_66NtD2R1x%2F-MUiKsjgBKoVh2wVIHbo%2F-MUiLAyv6Ofn_Il-nwJF%2Fimage.png?alt=media&token=b6a1ca73-9085-4013-b6f1-ff2aa5a34640)<br>
 
-### ClashX for MacOS
+### ClashX for MacOS --> Clashx Pro
    * 参考
+      + 
       + [ClashX教程 | macOS上好看又好用的科学上网工具] --> [https://merlinblog.xyz/wiki/ClashX.html](https://merlinblog.xyz/wiki/ClashX.html)<br>
       + [苹果电脑翻墙软件：ClashX MAC使用教程，一款在MAC电脑上非常好用的翻墙软件，支持SSR/V2ray/Trojan节点，mac os 翻墙vpn下载（cc字幕）]--><br>[https://www.youtube.com/watch?v=ipwsiG03W6g](https://www.youtube.com/watch?v=ipwsiG03W6g)<br>
    * 步骤
       1. 下载
         - Github地址 --> [https://github.com/yichengchen/clashX/releases](https://github.com/yichengchen/clashX/releases)<br>
+
+           * <details>
+                <summary>1.91.1 Release 说明</summary>
+                <br>
+                    + 升级 Clash Core 到 1.10, 支持snell v3, PROCESS-PATH规则，查看Clash Release Note 获取详细信息。
+                    + 支持使用 AppleScript 切换代理模式 (#827) @vince-hz
+                    + 修复开机启动选项在某些状态不生效的问题
+                    + 修复10.13系统支持
+                    ```
+                    # Apple Script 使用方法
+                      tell application "ClashX" to toggleProxy // 切换代理开关
+                      tell application "ClashX" to proxyMode "direct" // 切换代理模式
+                      tell application "ClashX" to proxyMode "global"
+                      tell application "ClashX" to proxyMode "rule"
+                    + ClashX Pro 集成premium core，提供增强模式(tun)，rule set等特性支持，下载地址： Appcenter --> [https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)<br>
+             </details>
 
 
 ## v2ray
