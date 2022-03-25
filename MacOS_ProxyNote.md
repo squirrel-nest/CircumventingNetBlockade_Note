@@ -68,17 +68,18 @@
            * <details>
                 <summary>1.91.1 Release 说明</summary>
                 <br>
-                    + 升级 Clash Core 到 1.10, 支持snell v3, PROCESS-PATH规则，查看Clash Release Note 获取详细信息。
-                    + 支持使用 AppleScript 切换代理模式 (#827) @vince-hz
-                    + 修复开机启动选项在某些状态不生效的问题
-                    + 修复10.13系统支持
+                    + 升级 Clash Core 到 1.10, 支持snell v3, PROCESS-PATH规则，查看Clash Release Note 获取详细信息。<br>
+                    + 支持使用 AppleScript 切换代理模式<br>
+                    + 修复开机启动选项在某些状态不生效的问题<br>
+                    + 修复10.13系统支持<br>
                     ```
                     # Apple Script 使用方法
                       tell application "ClashX" to toggleProxy // 切换代理开关
                       tell application "ClashX" to proxyMode "direct" // 切换代理模式
                       tell application "ClashX" to proxyMode "global"
                       tell application "ClashX" to proxyMode "rule"
-                    + ClashX Pro 集成premium core，提供增强模式(tun)，rule set等特性支持，下载地址： Appcenter --> [https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)<br>
+                    + ClashX Pro 集成premium core，提供增强模式(tun)，rule set等特性支持，<br>
+                    + 下载地址： Appcenter --> [https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)<br>
              </details>
 
 
