@@ -58,7 +58,8 @@
 
 ### ClashX for MacOS --> Clashx Pro
    * 参考
-      + 
+   * 教程
+      + [Mac技巧之苹果电脑 macOS 系统上开源免费的 shadowsocks 客户端软件：ClashX](https://www.mac52ipod.cn/post/apple-mac-macos-shadowsocks-client-app-clashx.php)<br>
       + [ClashX教程 | macOS上好看又好用的科学上网工具] --> [https://merlinblog.xyz/wiki/ClashX.html](https://merlinblog.xyz/wiki/ClashX.html)<br>
       + [苹果电脑翻墙软件：ClashX MAC使用教程，一款在MAC电脑上非常好用的翻墙软件，支持SSR/V2ray/Trojan节点，mac os 翻墙vpn下载（cc字幕）]--><br>[https://www.youtube.com/watch?v=ipwsiG03W6g](https://www.youtube.com/watch?v=ipwsiG03W6g)<br>
       + Add support for AppleScript #827 --> [https://github.com/yichengchen/clashX/pull/827](https://github.com/yichengchen/clashX/pull/827)<br>
