@@ -11,6 +11,7 @@
       *                   |--> Network           |
       * Bypassing ----|==========|-->|Censorship [https://dictionary.cambridge.org/us/dictionary/english/censorship](https://dictionary.cambridge.org/us/dictionary/english/censorship) --><br>  
 
+# App
 ## Clash
    * 下载
       - Github项目地址： --> [https://github.com/Dreamacro/clash/releases](https://github.com/Dreamacro/clash/releases)<br>
@@ -88,4 +89,10 @@
 ## v2ray
    * 参考
       + [标签： v2ray节点] --> [https://fanqiang.network/tag/v2ray%E8%8A%82%E7%82%B9/](https://fanqiang.network/tag/v2ray%E8%8A%82%E7%82%B9/)<br>
-## ShadowsocksR -- ShadowsocksX-NG --> ShadowsocksR LearningNote --> [https://github.com/huarui0/ProxyKnackNote/blob/master/ShadowsocksR_Note.md](https://github.com/huarui0/ProxyKnackNote/blob/master/ShadowsocksR_Note.md)<br>
+## ShadowsocksR ｜ ShadowsocksX-NG<br> ShadowsocksR LearningNote --> [https://github.com/huarui0/ProxyKnackNote/blob/master/ShadowsocksR_Note.md](https://github.com/huarui0/ProxyKnackNote/blob/master/ShadowsocksR_Note.md)<br>
+   * 官网参考
+      + [shadowsocks - Clients](https://shadowsocks.org/en/download/clients.html)<br>
+   * 下载
+      + 地址：[shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases)<br>
+   * 安装步骤
+   * 配置
