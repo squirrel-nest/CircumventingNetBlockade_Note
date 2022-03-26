@@ -100,7 +100,8 @@
 
 # YouTube 教程
 ## 订阅教程
-
+### 有用的资源
+   *  andehui's Blogger --> [https://blog.a169.org/](https://blog.a169.org/)<br> 参阅 每日更新的 订阅 信息
 ### SSR 订阅
    * 全平台终身免费VPN，自由切换节点 速度快滴不要不要的 --> [https://www.youtube.com/watch?v=3LhGYuA9xfk](https://www.youtube.com/watch?v=3LhGYuA9xfk)<br> 
 # 临时邮件地址
