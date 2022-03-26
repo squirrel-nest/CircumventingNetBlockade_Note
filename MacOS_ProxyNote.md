@@ -97,6 +97,9 @@
    * 安装步骤
    * 配置
 
+## VPN App 的使用教程
+   * F-Secure FREEDOME VPN - 支持全平台！
+      + 实测油管18000Kbps，正规无限试用31天国际大厂F-Secure FREEDOME VPN，支持全平台！ -- [https://www.youtube.com/watch?v=upU5RF3O2bk](https://www.youtube.com/watch?v=upU5RF3O2bk)<br>
 
 # YouTube 教程
 ## 订阅教程
