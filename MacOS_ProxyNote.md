@@ -100,6 +100,8 @@
 ## VPN App 的使用教程
    * F-Secure FREEDOME VPN - 支持全平台！
       + 实测油管18000Kbps，正规无限试用31天国际大厂F-Secure FREEDOME VPN，支持全平台！ -- [https://www.youtube.com/watch?v=upU5RF3O2bk](https://www.youtube.com/watch?v=upU5RF3O2bk)<br>
+   * 使用内置的VPN连接 - 172.245.211.129
+      + 手机电脑无需下载任何软件空手翻墙，附1900个VPN节点！ --> [https://www.youtube.com/watch?v=zdMoD1jElis](https://www.youtube.com/watch?v=zdMoD1jElis)<br>
 
 # YouTube 教程
 ## 订阅教程
@@ -107,8 +109,11 @@
    *  andehui's Blogger --> [https://blog.a169.org/](https://blog.a169.org/)<br> 参阅 每日更新的 订阅 信息 --> [https://blog.a169.org/2022/01/ssr2022130-10.html](https://blog.a169.org/2022/01/ssr2022130-10.html)<br>
 [https://blog.a169.org/2022/02/ss-ssr-v2ray.html](https://blog.a169.org/2022/02/ss-ssr-v2ray.html)<br>
 ### SSR 订阅
-   * 全平台终身免费VPN，自由切换节点 速度快滴不要不要的 --> [https://www.youtube.com/watch?v=3LhGYuA9xfk](https://www.youtube.com/watch?v=3LhGYuA9xfk)<br> 
+   * 全平台终身免费VPN，自由切换节点 速度快滴不要不要的 --> [https://www.youtube.com/watch?v=3LhGYuA9xfk](https://www.youtube.com/watch?v=3LhGYuA9xfk)<br>
+   * 给电脑和手机 装一个永久免费的VPN 速度与付费版一样 高清4k无压力 --> [https://www.youtube.com/watch?v=aJiEGzwP99s](https://www.youtube.com/watch?v=aJiEGzwP99s)<br>
 # 临时邮件地址
    * https://temp-mail.org/zh/ -- 可以接收临时邮件的地方
    * 全平台终身免费VPN，自由切换节点 速度快滴不要不要的 --> [https://www.youtube.com/watch?v=3LhGYuA9xfk](https://www.youtube.com/watch?v=3LhGYuA9xfk)<br> you
    * 全平台终身免费VPN，自由切换节点 速度快滴不要不要的 --> [https://www.youtube.com/watch?v=3LhGYuA9xfk](https://www.youtube.com/watch?v=3LhGYuA9xfk)<br> 
+# Ping - IP是否被屏蔽 的 方法
+   * Ping IP 工具 -- [https://tools.ipip.net/ping.php](https://tools.ipip.net/ping.php)<br>
