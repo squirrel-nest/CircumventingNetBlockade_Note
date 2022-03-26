@@ -96,3 +96,10 @@
       + 地址：[shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases)<br>
    * 安装步骤
    * 配置
+
+
+# YouTube 教程
+## 订阅教程
+
+### SSR 订阅
+   * 全平台终身免费VPN，自由切换节点 速度快滴不要不要的 --> [https://www.youtube.com/watch?v=3LhGYuA9xfk](https://www.youtube.com/watch?v=3LhGYuA9xfk)<br> 
