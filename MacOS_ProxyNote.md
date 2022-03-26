@@ -103,3 +103,7 @@
 
 ### SSR 订阅
    * 全平台终身免费VPN，自由切换节点 速度快滴不要不要的 --> [https://www.youtube.com/watch?v=3LhGYuA9xfk](https://www.youtube.com/watch?v=3LhGYuA9xfk)<br> 
+# 临时邮件地址
+   * https://temp-mail.org/zh/ -- 可以接收临时邮件的地方
+   * 全平台终身免费VPN，自由切换节点 速度快滴不要不要的 --> [https://www.youtube.com/watch?v=3LhGYuA9xfk](https://www.youtube.com/watch?v=3LhGYuA9xfk)<br> you
+   * 全平台终身免费VPN，自由切换节点 速度快滴不要不要的 --> [https://www.youtube.com/watch?v=3LhGYuA9xfk](https://www.youtube.com/watch?v=3LhGYuA9xfk)<br> 
