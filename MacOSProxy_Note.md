@@ -1,3 +1,4 @@
+# 旧版本在：[huarui0/ProxyKnack_Note](https://github.com/huarui0/ProxyKnack_Note/tree/master)
 # App
 ## Clash
    * 下载
