@@ -1,6 +1,41 @@
 # 旧版本在：[huarui0/ProxyKnack_Note](https://github.com/huarui0/ProxyKnack_Note/tree/master)
 ## Cloudflare WARP
-   * 设置及安装（暂时）
+   * <details open>
+         <summary>
+             ✨ Cloudflare WARP  的 安装 与 设置
+         </summary>
+         <ul style="disc">
+             <details open>
+                 <summary>
+                     ✨ 参考
+                 </summary>
+                 <ul>
+                     <li> 【机会不多】大厂VPN终极玩法！获取team帐户zero trust，配制文件到所有平台！利用clouflarer强大工具warp实现网络代理！配合Wareguard使用完美（WARP第三期） <a href="https://www.youtube.com/watch?v=fGTtiG2sIvU&t=589s">YouTube</a></li>
+                     <li> 软路由openwrt+openclash配置Cloudflare WARP <a href="https://www.youtube.com/watch?v=viqLCciet-c">YouTube</a></li>
+                 </ul>
+             </details>
+             <details open>
+                 <summary>
+                     ✨ Cloudflare WARP  的 安装
+                 </summary>
+                 <ul>
+                     <details open>
+                         <summary>
+                             ✨ 步骤
+                         </summary>
+                         <ol type="1">
+                             <li> - </li>
+                             <li> - </li>
+                             <li> - </li>
+                         </ol>
+                     </details>
+                 </ul>
+             </details>
+         </ul>
+     </details>
+
+----
+
 ## Clash
    * 下载
       - Github项目地址： --> [https://github.com/Dreamacro/clash/releases](https://github.com/Dreamacro/clash/releases)<br>
