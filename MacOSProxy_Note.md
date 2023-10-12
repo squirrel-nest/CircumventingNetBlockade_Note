@@ -1,3 +1,4 @@
+如果哪些 过时 了，就舍弃。。。
 # 旧版本在：[huarui0/ProxyKnack_Note](https://github.com/huarui0/ProxyKnack_Note/tree/master)
 ## Cloudflare WARP - 目前以 这个 作为 主要 工具， Clash Pro 作为 辅助
    * <details open>
@@ -97,25 +98,7 @@
          </ul>
      </details>
 ----
-
-
-   * 步骤
-      1. 下载
-
-           * <details>
-                <summary>1.91.1 Release 说明</summary>
-                <br>
-                    + <br>
-                    + <br>
-                    + <br>
-                    + <br>
-                    ```
-                    # 
-
-                    + <br>
-                    
-             </details>
-
+## 一下不用考虑了。。。
    * Clash 的 安装 与 配置
       + 下载地址
          - Github项目地址： --> [https://github.com/Dreamacro/clash/releases](https://github.com/Dreamacro/clash/releases)<br>
