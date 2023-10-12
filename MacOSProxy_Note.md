@@ -1,5 +1,5 @@
 # 旧版本在：[huarui0/ProxyKnack_Note](https://github.com/huarui0/ProxyKnack_Note/tree/master)
-## Cloudflare WARP
+## Cloudflare WARP - 目前以 这个 作为 主要 工具， Clash Pro 作为 辅助
    * <details open>
          <summary>
              ✨ Cloudflare WARP  的 安装 与 设置
@@ -36,9 +36,169 @@
 
 ----
 
-## Clash
-   * 下载
-      - Github项目地址： --> [https://github.com/Dreamacro/clash/releases](https://github.com/Dreamacro/clash/releases)<br>
+## Clash 及 Clash Pro 相关 工具 - Clash Pro 为主
+   * <details open>
+         <summary>
+             ✨  <i><b>Clashx Pro 的 安装 及 设置</b></i>
+         </summary>
+         <ul style="disc">
+             <li>
+                 <details open>
+                     <summary>
+                         ✨ 下载
+                     </summary>
+                     <ol type="1">
+                         <li> <a href="https://github.com/yichengchen/clashX/releases">ClashX 下载地址</a> </li>
+                         <li> <a href="https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public">ClashX Pro 下载地址： Appcenter</a> </li>
+                     </ol>
+                 </details>
+             </li>
+             <li>
+                 <details open>
+                     <summary>
+                         ✨ 教程
+                     </summary>
+                     <ol type="1">
+                         <li> <a href="https://www.mac52ipod.cn/post/apple-mac-macos-shadowsocks-client-app-clashx.php">Mac技巧之苹果电脑 macOS 系统上开源免费的 shadowsocks 客户端软件：ClashX</a> </li>
+                         <li> <a href="https://merlinblog.xyz/wiki/ClashX.html">ClashX教程 | macOS上好看又好用的科学上网工具</a> </li>
+                         <li> <a href="https://www.youtube.com/watch?v=ipwsiG03W6g">苹果电脑翻墙软件：ClashX MAC使用教程，一款在MAC电脑上非常好用的翻墙软件，支持SSR/V2ray/Trojan节点，mac os 翻墙vpn下载（cc字幕）</a> </li>
+                         <li> <a href="https://github.com/yichengchen/clashX/pull/827">Add support for AppleScript #827</a> </li>
+                     </ol>
+                 </details>
+             </li>
+             <li>
+                 <details open>
+                     <summary>
+                         ✨ 1.91.1 Release 说明
+                     </summary>
+                     <ol type="1">
+                         <li>升级 Clash Core 到 1.10, 支持snell v3, PROCESS-PATH规则，查看Clash Release Note 获取详细信息。</li>
+                         <li>支持使用 AppleScript 切换代理模式</li>
+                         <li>修复开机启动选项在某些状态不生效的问题</li>
+                         <li>修复10.13系统支持</li>
+                         <li>
+                             <details open>
+                                 <summary>
+                                     ✨ Apple Script 使用方法
+                                 </summary>
+                                 <ul style="disc">
+                                     <li>在左上角的菜单栏中选择"Settings..."（首选项）选项；</li>
+                                     <li>tell application "ClashX" to toggleProxy // 切换代理开关</li>
+                                     <li>tell application "ClashX" to proxyMode "direct" // 切换代理模式</li>
+                                     <li>tell application "ClashX" to proxyMode "global"</li>
+                                     <li>tell application "ClashX" to proxyMode "rule"</li>
+                                 </ul>
+                             </details>
+                         </li>
+                         <li>ClashX Pro 集成premium core，提供增强模式(tun)，rule set等特性支持，</li>
+                     </ol>
+                 </details>
+             </li>
+         </ul>
+     </details>
+----
+
+
+   * 步骤
+      1. 下载
+
+           * <details>
+                <summary>1.91.1 Release 说明</summary>
+                <br>
+                    + <br>
+                    + <br>
+                    + <br>
+                    + <br>
+                    ```
+                    # 
+
+                    + <br>
+                    
+             </details>
+
+   * Clash 的 安装 与 配置
+      + 下载地址
+         - Github项目地址： --> [https://github.com/Dreamacro/clash/releases](https://github.com/Dreamacro/clash/releases)<br>
+      + 详见
+         - 👀 [https://github.com/squirrel-nest/CircumventingNetBlockadeNote/blob/master/MacOS_ProxyNote.md](https://github.com/squirrel-nest/CircumventingNetBlockadeNote/blob/master/MacOS_ProxyNote.md)<br>
+      + 安装 --> 详见：[]()<br>
+         - ```brew search Clash```
+         - ``` brew install clashx-pro --cask```
+         - ``` brew install clashx --cask``` ```可选```
+         - ``` brew install clash-for-win --cask``` ```可选```
+      + 更新
+        - `brew upgrade clashx-pro --cask`
+      + 设置 步骤
+         - Change default system ignore list. --><br> [Change default system ignore list.](https://github.com/yichengchen/clashX#change-default-system-ignore-list)<br> --> [设置例子](https://github.com/yichengchen/clashX/blob/master/proxyIgnoreList.plist)<br>
+      + 代理端口
+         - 查询入口
+           * 弹出窗口 》Help 》Ports
+             + Socks5 端口（默认）：```7890```
+             + Http端口（默认）：```7890```
+         - 备注：Proxyfier的代理设置需要根据以上端口设置。。。
+         - Zoom 不知为何，不能设置为 新加坡区 和 香港区，其他都可以。。。
+
+
+
+      
+   * V2rayU 的 安装 与 配置
+      + 参考
+         - https://yanue.github.io/V2rayU/
+         - <details open>
+               <summary>
+                 About
+               </summary>
+               V2rayU 是一款v2ray mac客户端,用于科学上网,使用swift4.2编写,基于v2ray项目,支持vmess,shadowsocks,socks5等服务协议(推荐搭建v2ray服务,可伪装成正常网站,防封锁), 支持二维码,剪贴板导入,手动配置,二维码分享等, 支持订阅, 项目地址: https://github.com/yanue/V2rayU
+           </details>
+      + 下载： 不用下载 ```brew``` 即可--> [https://github.com/yanue/V2rayU](https://github.com/yanue/V2rayU)<br>
+      + 说明：如果 ```Clash Pro``` 无法 ```VPN```，则尝试 V2rayU
+      + 安装 ```brew install v2rayu --cask``` ```brew info v2rayu --cask```
+
+   * Proxifier 的 安装 与 设置
+      + 参考
+         - https://www.cnblogs.com/itachilee/p/14202469.html
+         - mac电脑上安装使用Proxifier代理客户端 --><br>
+           [https://www.lapulace.com/IProxifier.html](https://www.lapulace.com/IProxifier.html)<br>
+         - https://github.com/csujedihy/proximac -- 一个类似的代理app，未验证。
+      + 安装，
+         - 统一用 brew cask 安装
+      + 注册
+         - mac v3激活码：```3CWNN-WYTP4-SD83W-ASDFR-84KEA```
+         - 打开 App
+         - 输入用户名：Jenny，粘贴注册码，即可。
+         - 附带：window的 注册码
+           ``````
+           ``````
+           ``````
+         - 粘贴注册码，即可。
+      + 第一次打开，提示：System Blocked，设置为允许。。即可。 
+      + 设置
+         - 参考
+            * 超详细教程 : 如何在国内实现YouTube直播 (OBS Studio + Proxifier)？ -->
+              [https://www.youtube.com/watch?v=jOk-K5CFCqU](https://www.youtube.com/watch?v=jOk-K5CFCqU)<br>
+         - 设置说明
+            * VPN代理使用Clash Pro，其 Sockets5 端口设置为 7890
+         - 设置
+            * Proxies 设置
+               + 设置入口
+               + 设置内容
+                  1. 点击 ```Add...``` 按钮， 打开设置界面
+                  2. Server Address 设置为 ```127.0.0.1```， 
+                     * ClashX Pro，则：Port 设置为 ```7890```
+                     * Windows下的 WinXRay，端口：Sockets：1080，Https：1081
+                     * 如果是其他，需要查 端口 的 设置信息
+                  4. Protocol 选项 选取 SOCKS Version 5
+                  5. Authentication 不用设置 🈚
+            * Rule 设置
+               + 设置入口
+               + 设置内容
+                  1. 点击 ```Add...``` 按钮， 打开设置界面
+                  2. ```Name``` 设置为要使用全局代理的 App 名称，便于设别， ```Enabled``` 选项 ✅
+                  3. ```Applications``` 设置，点击 ```+```按钮，然后，选择要代理的 App
+                  4. 其他暂不选择。。。
+                  5. ```Acction```选择 ```Proxies``` 中设置的 代理
+                  6. 最后，点击 ```Save```，保存。
+
 ## Clash for MacOS
 ### Clash for Windows for MacOS - Clash for Windows for Mac 是 Clash for Windows 作者的另一款作品。
    * 参考
@@ -81,33 +241,13 @@
 若要自动发现代理服务器，请选择“自动发现代理”。
                   * ![代理服务器设置](https://help.loliloli.live/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-MJ1y1XnJx_66NtD2R1x%2F-MUiKsjgBKoVh2wVIHbo%2F-MUiLAyv6Ofn_Il-nwJF%2Fimage.png?alt=media&token=b6a1ca73-9085-4013-b6f1-ff2aa5a34640)<br>
 
-### ClashX for MacOS --> Clashx Pro
-   * 参考
-   * 教程
-      + [Mac技巧之苹果电脑 macOS 系统上开源免费的 shadowsocks 客户端软件：ClashX](https://www.mac52ipod.cn/post/apple-mac-macos-shadowsocks-client-app-clashx.php)<br>
-      + [ClashX教程 | macOS上好看又好用的科学上网工具] --> [https://merlinblog.xyz/wiki/ClashX.html](https://merlinblog.xyz/wiki/ClashX.html)<br>
-      + [苹果电脑翻墙软件：ClashX MAC使用教程，一款在MAC电脑上非常好用的翻墙软件，支持SSR/V2ray/Trojan节点，mac os 翻墙vpn下载（cc字幕）]--><br>[https://www.youtube.com/watch?v=ipwsiG03W6g](https://www.youtube.com/watch?v=ipwsiG03W6g)<br>
-      + Add support for AppleScript #827 --> [https://github.com/yichengchen/clashX/pull/827](https://github.com/yichengchen/clashX/pull/827)<br>
-   * 步骤
-      1. 下载
-        - ClashX 下载地址 --> [https://github.com/yichengchen/clashX/releases](https://github.com/yichengchen/clashX/releases)<br>
-        - ClashX Pro 下载地址： Appcenter --> [https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)<br> 
-           * <details>
-                <summary>1.91.1 Release 说明</summary>
-                <br>
-                    + 升级 Clash Core 到 1.10, 支持snell v3, PROCESS-PATH规则，查看Clash Release Note 获取详细信息。<br>
-                    + 支持使用 AppleScript 切换代理模式<br>
-                    + 修复开机启动选项在某些状态不生效的问题<br>
-                    + 修复10.13系统支持<br>
-                    ```
-                    # Apple Script 使用方法
-                      tell application "ClashX" to toggleProxy // 切换代理开关
-                      tell application "ClashX" to proxyMode "direct" // 切换代理模式
-                      tell application "ClashX" to proxyMode "global"
-                      tell application "ClashX" to proxyMode "rule"
-                    + ClashX Pro 集成premium core，提供增强模式(tun)，rule set等特性支持，<br>
-                    
-             </details>
+
+
+
+
+
+
+
 
 
 ## v2ray
