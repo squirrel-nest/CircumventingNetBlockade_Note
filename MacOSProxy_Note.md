@@ -37,7 +37,7 @@
 
 ----
 
-## Clash 及 Clash Pro 相关 工具 - Clash Pro 为主
+## Clash 、 ClashX 及 ClashX Pro 相关 工具 - ClashX Pro 为主
    * <details open>
          <summary>
              ✨  <i><b>Clashx Pro 的 安装 及 设置</b></i>
@@ -49,6 +49,7 @@
                          ✨ 下载
                      </summary>
                      <ol type="1">
+                         <li> <a href="https://github.com/Dreamacro/clash/releases">Clash 下载地址</a> </li>
                          <li> <a href="https://github.com/yichengchen/clashX/releases">ClashX 下载地址</a> </li>
                          <li> <a href="https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public">ClashX Pro 下载地址： Appcenter</a> </li>
                      </ol>
@@ -95,35 +96,59 @@
                      </ol>
                  </details>
              </li>
+             <li>
+                 <details open>
+                     <summary>
+                         ✨ 安装 步骤
+                     </summary>
+                     <ul style="disc">
+                         <li>brew search Clash</li>
+                         <li>brew install --cask clashx-pro</li>
+                         <li>brew install --cask clashx - 备注：可不装</li>
+                         <li>brew install --cask clash-for-win - 备注：完全可以不装</li>
+                     </ul>
+                 </details>
+             </li>
+             <li>
+                 <details open>
+                     <summary>
+                         ✨ 更新
+                     </summary>
+                     <ul style="disc">
+                         <li>brew upgrade --cask clashx-pro</li>
+                         <li>brew upgrade --cask clashx</li>
+                         <li>brew upgrade --cask clash-for-win</li>
+                     </ul>
+                 </details>
+             </li>
+             <li>
+                 <details open>
+                     <summary>
+                         ✨ 设置 步骤
+                     </summary>
+                     <ul style="disc">
+                         <li>Change default system ignore list --  <a href="https://github.com/yichengchen/clashX#change-default-system-ignore-list">https://github.com/yichengchen/clashX#change-default-system-ignore-list</a></li>
+                     </ul>
+                 </details>
+             </li>
+             <li>
+                 <details open>
+                     <summary>
+                         ✨ 代理端口 设置
+                     </summary>
+                     <ul style="disc">
+                         <li>查询入口： 弹出窗口 》Help 》Ports</li>
+                         <li>Socks5 端口（默认）：```7890```</li>
+                         <li>Http端口（默认）：```7890```</li>
+                         <li>备注：Proxyfier的代理设置需要根据以上端口设置。。。</li>
+                         <li>Zoom 不知为何，不能设置为 新加坡区 和 香港区，其他都可以。。。</li>
+                     </ul>
+                 </details>
+             </li>
          </ul>
      </details>
 ----
 ## 一下不用考虑了。。。
-   * Clash 的 安装 与 配置
-      + 下载地址
-         - Github项目地址： --> [https://github.com/Dreamacro/clash/releases](https://github.com/Dreamacro/clash/releases)<br>
-      + 详见
-         - 👀 [https://github.com/squirrel-nest/CircumventingNetBlockadeNote/blob/master/MacOS_ProxyNote.md](https://github.com/squirrel-nest/CircumventingNetBlockadeNote/blob/master/MacOS_ProxyNote.md)<br>
-      + 安装 --> 详见：[]()<br>
-         - ```brew search Clash```
-         - ``` brew install clashx-pro --cask```
-         - ``` brew install clashx --cask``` ```可选```
-         - ``` brew install clash-for-win --cask``` ```可选```
-      + 更新
-        - `brew upgrade clashx-pro --cask`
-      + 设置 步骤
-         - Change default system ignore list. --><br> [Change default system ignore list.](https://github.com/yichengchen/clashX#change-default-system-ignore-list)<br> --> [设置例子](https://github.com/yichengchen/clashX/blob/master/proxyIgnoreList.plist)<br>
-      + 代理端口
-         - 查询入口
-           * 弹出窗口 》Help 》Ports
-             + Socks5 端口（默认）：```7890```
-             + Http端口（默认）：```7890```
-         - 备注：Proxyfier的代理设置需要根据以上端口设置。。。
-         - Zoom 不知为何，不能设置为 新加坡区 和 香港区，其他都可以。。。
-
-
-
-      
    * V2rayU 的 安装 与 配置
       + 参考
          - https://yanue.github.io/V2rayU/
