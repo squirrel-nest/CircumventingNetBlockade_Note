@@ -160,7 +160,7 @@
            </details>
       + 下载： 不用下载 ```brew``` 即可--> [https://github.com/yanue/V2rayU](https://github.com/yanue/V2rayU)<br>
       + 说明：如果 ```Clash Pro``` 无法 ```VPN```，则尝试 V2rayU
-      + 安装 ```brew install v2rayu --cask``` ```brew info v2rayu --cask```
+      + 安装 ```brew install --cask v2rayu``` ```brew info --cask v2rayu```
 
    * Proxifier 的 安装 与 设置
       + 参考
@@ -248,15 +248,6 @@
                - 如果想要自动配置代理服务器设置，请执行以下一项操作：
 若要自动发现代理服务器，请选择“自动发现代理”。
                   * ![代理服务器设置](https://help.loliloli.live/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-MJ1y1XnJx_66NtD2R1x%2F-MUiKsjgBKoVh2wVIHbo%2F-MUiLAyv6Ofn_Il-nwJF%2Fimage.png?alt=media&token=b6a1ca73-9085-4013-b6f1-ff2aa5a34640)<br>
-
-
-
-
-
-
-
-
-
 
 ## v2ray
    * 参考
