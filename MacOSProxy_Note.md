@@ -3,35 +3,57 @@
 ## Cloudflare WARP - 目前以 这个 作为 主要 工具， Clash Pro 作为 辅助
    * <details open>
          <summary>
-             ✨ Cloudflare WARP  的 安装 与 设置
+             ✨ Cloudflare WARP  的 安装 与 设置 <a id="install-warp-app"></a>
          </summary>
          <ul style="disc">
              <details open>
                  <summary>
-                     ✨ 参考
+                     ✨ Cloudflare WARP  的 安装 - MacOS 环境 <a id="install-app-for-macos"></a>
                  </summary>
                  <ul>
-                     <li> 【机会不多】大厂VPN终极玩法！获取team帐户zero trust，配制文件到所有平台！利用clouflarer强大工具warp实现网络代理！配合Wareguard使用完美（WARP第三期） <a href="https://www.youtube.com/watch?v=fGTtiG2sIvU&t=589s">YouTube</a></li>
-                     <li> 软路由openwrt+openclash配置Cloudflare WARP <a href="https://www.youtube.com/watch?v=viqLCciet-c">YouTube</a></li>
-                 </ul>
-             </details>
-             <details open>
-                 <summary>
-                     ✨ Cloudflare WARP  的 安装
-                 </summary>
-                 <ul>
-                     <details open>
-                         <summary>
-                             ✨ 步骤
-                         </summary>
-                         <ol type="1">
-                             <li> - </li>
-                             <li> - </li>
-                             <li> - </li>
-                         </ol>
-                     </details>
-                 </ul>
-             </details>
+                     <li><a id="install-app-for-macos-brew"></a>
+                         <details open>
+                             <summary>
+                                 ✨ Cloudflare WARP macOS Release 安装与设置
+                             </summary>
+                             <ul>
+                                 <details open>
+                                     <summary>
+                                         ✨ 步骤 - 安装 备2023-07-06
+                                     </summary>
+                                     <ul>
+                                         <li>采用的方式 - brew 安装 - 目前采用
+                                             <ol type="1">
+                                                 <li>brew seawarp</li>
+                                                 <li>brew inst--cask cloudflaarp</li>
+                                             </ol>
+                                         </li>
+                                     </ul>
+                                 </details>
+                             </ul>
+                         </details>
+                     </li>
+                     <li><a id="macos-app-for-macos- desktop-client"></a>
+                         <details open>
+                             <summary>
+                                 ✨ ✨ ✨ macOS desktop client - 安装版本 的 方法 - 不采用
+                             </summary>
+                             <ul>
+                                 <li>
+                                     <details open>
+                                         <summary>
+                                             ✨ 参考
+                                         </summary>
+                                         <ul>
+                                             <li><a href="https://developers.cloudflare.com/warp-client/get-started/macos/">macOS desktop client</a>
+                                             </li>
+                                         </ul>
+                                     </details>
+                                 </li>
+                             </ul>
+                         </details>
+                     </li>
+                 </details>
              <details open>
                  <summary>
                      ✨ Cloudflare WARP  的 设置， 以 <a href="https://www.youtube.com/watch?v=fGTtiG2sIvU&t=589s">以这个Youtube的 设置 Zero Trust 的 方式 为参考</a>
@@ -60,6 +82,23 @@
          </ul>
      </details>
 
+   * <details open>
+         <summary>
+             ✨ Cloudflare WARP  的 教程 与 参考 <a id="warp-tutorial"></a>
+         </summary>
+         <ul style="disc">
+             <details open>
+                 <summary>
+                     ✨ 参考
+                 </summary>
+                 <ul>
+                     <li> 【机会不多】大厂VPN终极玩法！获取team帐户zero trust，配制文件到所有平台！利用clouflarer强大工具warp实现网络代理！配合Wareguard使用完美（WARP第三期） <a href="https://www.youtube.com/watch?v=fGTtiG2sIvU&t=589s">YouTube</a></li>
+                     <li> 软路由openwrt+openclash配置Cloudflare WARP <a href="https://www.youtube.com/watch?v=viqLCciet-c">YouTube</a></li>
+                 </ul>
+             </details>
+         </ul>
+     </details>
+     
 ----
 
 ## Clash 、 ClashX 及 ClashX Pro 相关 工具 - ClashX Pro 为主
