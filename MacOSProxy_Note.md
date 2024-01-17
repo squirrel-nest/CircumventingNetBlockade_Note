@@ -49,6 +49,16 @@
                      </details>
                  </ul>
              </details>
+             <details open>
+                 <summary>
+                     ✨ Cloudflare WARP  的 优选IP 的 获取 途径： CloudFlare优质IP自动切换： <a href="https://stock.hostmonit.com/CloudFlareYes">https://stock.hostmonit.com/CloudFlareYes</a>
+                 </summary>
+                 <ul>
+                     <li> https://stock.hostmonit.com/CloudFlareYes </li>
+                 </ul>
+             </details>
+
+
          </ul>
      </details>
 
