@@ -3,32 +3,28 @@
 ## Cloudflare WARP - 目前以 这个 作为 主要 工具， Clash Pro 作为 辅助
    * <details open>
          <summary>
-             ✨ Cloudflare WARP  的 安装 与 设置 <a id="install-warp-app"></a>
+             ✨ Cloudflare WARP  的 安装 <a id="install-warp-app"></a>
          </summary>
          <ul style="disc">
              <details open>
                  <summary>
-                     ✨ Cloudflare WARP  的 安装 - MacOS 环境 <a id="install-app-for-macos"></a>
+                     ✨ MacOS 环境 <a id="install-app-for-macos"></a>
                  </summary>
                  <ul>
                      <li><a id="install-app-for-macos-brew"></a>
                          <details open>
                              <summary>
-                                 ✨ Cloudflare WARP macOS Release 安装与设置
+                                 ✨ 采用 brew 的 安装 方式（Cloudflare WARP macOS Release） - 目前采用
                              </summary>
                              <ul>
                                  <details open>
                                      <summary>
                                          ✨ 步骤 - 安装 备2023-07-06
                                      </summary>
-                                     <ul>
-                                         <li>采用的方式 - brew 安装 - 目前采用
-                                             <ol type="1">
-                                                 <li>brew seawarp</li>
-                                                 <li>brew inst--cask cloudflaarp</li>
-                                             </ol>
-                                         </li>
-                                     </ul>
+                                         <ol type="1">
+                                             <li>brew seawarp</li>
+                                             <li>brew inst--cask cloudflaarp</li>
+                                         </ol>
                                  </details>
                              </ul>
                          </details>
