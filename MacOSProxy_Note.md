@@ -104,7 +104,52 @@
              </details>
          </ul>
      </details>
-
+----
+   * <details open>
+         <summary>
+             ✨ 设置 WireGuard自动分流，快速实现网络分流，优选IP <a id="setting-warp-app-ip"></a>
+         </summary>
+         <ul style="disc">
+             <details open>
+                 <summary>
+                     ✨ ✨ MacOS 环境 <a id="setting-app-ip-for-macos"></a>
+                 </summary>
+                 <ul>
+                     <li><a id="setting-app-for-macos-ip-fenliu"></a>
+                         <details open>
+                             <summary>
+                                 ✨ 设置 WireGuard自动分流 - 目前采用
+                             </summary>
+                             <ul>
+                                 <details open>
+                                     <summary>
+                                         ✨ 步骤 - 2023-07-06
+                                     </summary>
+                                         <ol type="1">
+                                             <li> - </li>
+                                             <li> - </li>
+                                         </ol>
+                                 </details>
+                                 <details open>
+                                     <summary>
+                                         ✨ 教程 与 参考 资源
+                                     </summary>
+                                     <ul>
+                                         <li>
+                                             自动分流教程，快速实现网络分流，优选IP  的 设置， 以<br>
+                                             <a href="https://www.youtube.com/watch?v=fGTtiG2sIvU&t=589s">Warp分流教程，WireGuard自动分流教程，快速实现网络分流，优选IP，多节点创建，超详细教学</a><br>
+                                            为 主要参考
+                                         </li>
+                                     </ul>
+                                 </details>
+                             </ul>
+                         </details>
+                     </li>
+                 </ul>
+             </details>
+         </ul>
+     </details>
+----
    * <details open>
          <summary>
              ✨ 其它 的 教程 与 参考 <a id="warp-tutorial"></a>
