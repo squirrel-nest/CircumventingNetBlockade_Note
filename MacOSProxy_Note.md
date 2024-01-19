@@ -83,7 +83,9 @@
                                      </summary>
                                      <ul>
                                          <li>
-                                             Cloudflare WARP  的 设置， 以 <a href="https://www.youtube.com/watch?v=fGTtiG2sIvU&t=589s">以这个Youtube的 设置 Zero Trust 的 方式 为参考</a>
+                                             Cloudflare WARP  的 设置， 以<br>
+                                             <a href="https://www.youtube.com/watch?v=fGTtiG2sIvU&t=589s">【机会不多】大厂VPN终极玩法！获取team帐户zero trust，配制文件到所有平台！利用clouflarer强大工具warp实现网络代理！配合Wareguard使用完美（WARP第三期）</a><br>
+                                             设置 Zero Trust 的 方式 为 主要参考
                                          </li>
                                      </ul>
                                  </details>
@@ -105,7 +107,7 @@
 
    * <details open>
          <summary>
-             ✨ Cloudflare WARP  的 教程 与 参考 <a id="warp-tutorial"></a>
+             ✨ 其它 的 教程 与 参考 <a id="warp-tutorial"></a>
          </summary>
          <ul style="disc">
              <details open>
@@ -113,7 +115,6 @@
                      ✨ 参考
                  </summary>
                  <ul>
-                     <li> 【机会不多】大厂VPN终极玩法！获取team帐户zero trust，配制文件到所有平台！利用clouflarer强大工具warp实现网络代理！配合Wareguard使用完美（WARP第三期） <a href="https://www.youtube.com/watch?v=fGTtiG2sIvU&t=589s">YouTube</a></li>
                      <li> 软路由openwrt+openclash配置Cloudflare WARP <a href="https://www.youtube.com/watch?v=viqLCciet-c">YouTube</a></li>
                  </ul>
              </details>
