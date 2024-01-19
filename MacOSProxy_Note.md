@@ -14,38 +14,36 @@
                      <li><a id="install-app-for-macos-brew"></a>
                          <details open>
                              <summary>
-                                 ✨ 采用 brew 的 安装 方式（Cloudflare WARP macOS Release） - 目前采用
+                                 ✨ 采用 brew 的 安装 方式（macOS desktop client - Cloudflare WARP macOS Release） - 目前采用
                              </summary>
                              <ul>
                                  <details open>
                                      <summary>
-                                         ✨ 步骤 - 安装 备2023-07-06
+                                         ✨ 步骤 - 安装 2023-07-06
                                      </summary>
                                          <ol type="1">
-                                             <li>brew seawarp</li>
+                                             <li>brew search warp</li>
                                              <li>brew inst--cask cloudflaarp</li>
                                          </ol>
                                  </details>
                              </ul>
                          </details>
                      </li>
-                     <li><a id="macos-app-for-macos- desktop-client"></a>
+                     <li><a id="macos-app-for-macos-desktop-client"></a>
                          <details open>
                              <summary>
-                                 ✨ ✨ ✨ macOS desktop client - 安装版本 的 方法 - 不采用
+                                 ✨ 安装版本 的 方法 - 目前不采用
                              </summary>
                              <ul>
-                                 <li>
-                                     <details open>
-                                         <summary>
-                                             ✨ 参考
-                                         </summary>
-                                         <ul>
-                                             <li><a href="https://developers.cloudflare.com/warp-client/get-started/macos/">macOS desktop client</a>
-                                             </li>
-                                         </ul>
-                                     </details>
-                                 </li>
+                                 <details open>
+                                     <summary>
+                                         ✨ 资源
+                                     </summary>
+                                     <ul>
+                                         <li><a href="https://developers.cloudflare.com/warp-client/get-started/macos/">macOS desktop client</a>
+                                         </li>
+                                     </ul>
+                                 </details>
                              </ul>
                          </details>
                      </li>
@@ -56,24 +54,42 @@
 ----
    * <details open>
          <summary>
-             ✨ Cloudflare WARP  的 安装 与 设置 <a id="install-warp-app"></a>
+             ✨ Cloudflare WARP  的 设置 <a id="setting-warp-app"></a>
          </summary>
          <ul style="disc">
              <details open>
                  <summary>
-                     ✨ Cloudflare WARP  的 设置， 以 <a href="https://www.youtube.com/watch?v=fGTtiG2sIvU&t=589s">以这个Youtube的 设置 Zero Trust 的 方式 为参考</a>
+                     ✨ ✨ MacOS 环境 <a id="setting-app-for-macos"></a>
                  </summary>
                  <ul>
-                     <details open>
-                         <summary>
-                             ✨ 步骤
-                         </summary>
-                         <ol type="1">
-                             <li> - </li>
-                             <li> - </li>
-                             <li> - </li>
-                         </ol>
-                     </details>
+                     <li><a id="setting-app-for-macos-zero-trust"></a>
+                         <details open>
+                             <summary>
+                                 ✨ 设置 Zero Trust 账号 的 方式 - 目前采用
+                             </summary>
+                             <ul>
+                                 <details open>
+                                     <summary>
+                                         ✨ 步骤 - 2023-07-06
+                                     </summary>
+                                         <ol type="1">
+                                             <li> - </li>
+                                             <li> - </li>
+                                         </ol>
+                                 </details>
+                                 <details open>
+                                     <summary>
+                                         ✨ 教程 与 参考 资源
+                                     </summary>
+                                     <ul>
+                                         <li>
+                                             Cloudflare WARP  的 设置， 以 <a href="https://www.youtube.com/watch?v=fGTtiG2sIvU&t=589s">以这个Youtube的 设置 Zero Trust 的 方式 为参考</a>
+                                         </li>
+                                     </ul>
+                                 </details>
+                             </ul>
+                         </details>
+                     </li>
                  </ul>
              </details>
              <details open>
