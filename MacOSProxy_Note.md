@@ -140,6 +140,9 @@
                                              <a href="https://www.youtube.com/watch?v=fGTtiG2sIvU&t=589s">Warp分流教程，WireGuard自动分流教程，快速实现网络分流，优选IP，多节点创建，超详细教学</a><br>
                                             为 主要参考
                                          </li>
+                                         <li><a href="https://blog.hostmonit.com/manually-select-ip/">CloudFlare自选IP加速网站</a></li>
+                                         <li><a href="https://blog.hostmonit.com/cloudflare-select-ip-plus/">CloudFlare自选IP PLUS</a></li>
+                                         <li><a href="https://whatismyipaddress.com/">查 IP地址 归属地 的方法</a></li>
                                      </ul>
                                  </details>
                              </ul>
