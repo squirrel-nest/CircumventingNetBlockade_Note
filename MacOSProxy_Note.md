@@ -96,7 +96,7 @@
              </details>
              <details open>
                  <summary>
-                     ✨ Cloudflare WARP  的 优选IP 的 获取 途径： CloudFlare优质IP自动切换： <a href="https://stock.hostmonit.com/CloudFlareYes">https://stock.hostmonit.com/CloudFlareYes</a>
+                     ✨ Cloudflare WARP  的 优选IP 的 获取 途径： CloudFlare优质IP自动切换： <a href="https://github.com/ddgth/cf2dns">ddgth/cf2dns<br>筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式</a>
                  </summary>
                  <ul>
                      <li> <a href="https://stock.hostmonit.com/CloudFlareYes">https://stock.hostmonit.com/CloudFlareYes</a> </li>
